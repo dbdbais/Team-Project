@@ -1,4 +1,5 @@
- # <center> 네모네모로직 팀 프로젝트.PPTX </center>
+# 네모네모로직-팀 프로젝트.pptx
+
 ***
 
 ![슬라이드1](https://user-images.githubusercontent.com/99540674/191897145-ce10c0eb-7850-4983-aba5-1f571b083b12.PNG)
