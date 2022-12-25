@@ -8,8 +8,10 @@
 ## 사진
 * **전체**  
 
-![전체적](https://user-images.githubusercontent.com/99540674/209460058-9aae843f-3992-430c-8ec3-7132cfb9f2de.jpg)
+![전체적](https://user-images.githubusercontent.com/99540674/209460058-9aae843f-3992-430c-8ec3-7132cfb9f2de.jpg)  
 
+
+![외관](https://user-images.githubusercontent.com/99540674/209460381-f903b20e-643a-42a3-8293-fa27c5dc61c2.jpg)
 * **앞면**  
 
 ![앞판](https://user-images.githubusercontent.com/99540674/209460057-e6dba2cf-b6c4-4627-bea6-705e155dd37b.jpg)
