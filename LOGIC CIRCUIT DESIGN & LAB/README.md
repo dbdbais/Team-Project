@@ -5,4 +5,4 @@
   
   
 ## 구동영상
-![BombGame](https://user-images.githubusercontent.com/99540674/209458719-95ec2ac0-6731-43e5-9568-c6a2258a7417.gif)
+<img width="100%" src="https://user-images.githubusercontent.com/99540674/209461675-451373a4-417f-4dbc-bbd3-83d75407a730.gif"/>
