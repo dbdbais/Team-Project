@@ -1,4 +1,4 @@
-# Embedded-System-Desgin-LAB  
+# Embedded-System Term_Project
 ## 자동급식기 (Automatic Feeder)
 * STM32보드의 BlueTooth를 이용한 UART 통신으로 스마트폰과 통신해 반려동물의 정보를 입력받음.
 * 반려동물의 움직임을 압력센서와 적외선센서로 탐지해 사용자에게 메세지 송신.  
