@@ -4,10 +4,10 @@
 ![termProject](https://user-images.githubusercontent.com/99540674/209459052-ea0634d9-90d4-42ef-82df-a7aee68d55fc.jpg)  
   
   
-## 구동영상
+## 구동 영상
 <img width="100%" src="https://user-images.githubusercontent.com/99540674/209461675-451373a4-417f-4dbc-bbd3-83d75407a730.gif"/>
 
-## 동작설명
+## 동작 설명
 1. *버튼을 누르기 전 까지는 JK FlipFlop을 이용해 모든 KEYPAD의 입력을 막는다.  
 2. *버튼을 누르면 STEP모터가 시계반대방량으로 회전하며 프로그램의 동작을 알린다.
 3. 그 후 4번의 숫자가 입력될 때마다, 기회가 5에서 1씩 떨어진다. 
